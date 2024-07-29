@@ -1,5 +1,6 @@
 # custard-todo
 a straight forward todo list to track your tasks
+all tasks are saved on your local storage
 https://custard-todo.netlify.app/
 
 # React + Vite
