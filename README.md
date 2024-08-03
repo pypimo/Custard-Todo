@@ -1,3 +1,8 @@
+# custard-todo
+a straight forward todo list to track your tasks
+all tasks are saved on your local storage
+https://custard-todo.netlify.app/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
