@@ -17,7 +17,7 @@ export default function App() {
   }, [todos])
 
   function addTodo(title) {
-    setTodos( (currentTodos => {
+    setTodos( (currentTodos => { 
       return [
         ...currentTodos,
         {id:crypto.randomUUID(), title, completed:false}
@@ -48,7 +48,7 @@ export default function App() {
 
   return (
     <>
-      <NewTodoForm onSubmit={addTodo}/>
+      <NewTodoForm add={addTodo}/>
       <h1 className="header">Todo List</h1>
       <TodoList todos={todos} deleteTodo={deleteTodo} toggleTodo={toggleTodo}/>
     </>
