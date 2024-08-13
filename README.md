@@ -1,5 +1,5 @@
 # custard-todo
-a straight forward todo list to track your tasks
+a minimalist todo list to add tasks and focus on your goals without distractions
 all tasks are saved on your local storage
 https://custard-todo.netlify.app/
 
