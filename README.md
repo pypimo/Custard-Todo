@@ -1,8 +1,9 @@
-# custard-todo
-A [minimalist todo list](https://custard-todo.netlify.app/) to add tasks and focus on your goals without distractions 
+# Custard To-do
+A Minimalist To-do App to add tasks and focus on your goals without distractions 
 <br>
 The tasks are saved on your local storage so you can close your tabs without worrying about your tasks for the day!
-
+<br>
+The site is hosted [here](https://custard-todo.netlify.app/)
 
 # React + Vite
 
